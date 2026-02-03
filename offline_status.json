@@ -1,0 +1,15 @@
+{
+    "status": true,
+    "error": 0,
+    "message": "OK",
+    "data": {
+        "awake_pc": {
+            "status": false,
+            "info": "Все системы работают нормально"
+        },
+        "awake_mobile": {
+            "status": false,
+            "info": "Все системы работают нормально"
+        }
+    }
+}

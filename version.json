@@ -1,0 +1,12 @@
+{
+    "latest": 1,
+    "version": "1.0.0",
+    "script_url": "https://api.awake-tools.ru/download/awake-tools.lua",
+    "changes": [
+        "Первая версия Awake Tools",
+        "Базовый функционал администрирования",
+        "Интеграция с Awake RP"
+    ],
+    "required": false,
+    "release_date": "2025-02-01"
+}
