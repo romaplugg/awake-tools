@@ -4,7 +4,7 @@
     "message": "OK",
     "data": {
         "awake_pc": {
-            "status": true,
+            "status": false,
             "info": "Все системы работают нормально"
         },
         "awake_mobile": {
@@ -13,4 +13,5 @@
         }
     }
 }
+
 
